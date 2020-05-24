@@ -1,2 +1,3 @@
 # hello-world
-Learning repository
+Learning repository \n
+My name is Gaius-Assor Chimmene Damiete
